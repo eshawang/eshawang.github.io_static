@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: "https://eshawang.github.io/Esha_Wang_Mar2022.pdf"
+  - title: "Art"
+    url: /art/
+  - title: "Life"
+    url: /life/
+  - title: "Tech"
+    url: /tech/
+  - title: "Travel"
+    url: /travel/
+  # - title: "Sitemap"
+  #   url: /sitemap/
